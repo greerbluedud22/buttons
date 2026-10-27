@@ -1,12 +1,12 @@
 body{
-    background-color: red;
+    background-color: blue;
 }
  
 button{    
     background-color: black;
     padding: 10px;
     border: 2px solid white;
-    border-radius: 20px;
+    border-radius: 4px;
     height: 30px;
     width: 25px;
     color:purple;
