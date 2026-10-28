@@ -10,5 +10,6 @@ button{
     height: 30px;
     width: 80px;
     color:purple;
-
+    font-size: 15px;
+    cursor: pointer;
 }
