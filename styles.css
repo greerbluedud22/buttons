@@ -4,12 +4,12 @@ body{
  
 button{    
     background-color: black;
-    padding: 14px 28px;
+    padding: 10px;
     border: 2px solid white;
     border-radius: 4px;
     height: 30px;
     width: 80px;
     color:purple;
-    font-size: 15px;
+    font-size: 5px;
     cursor: pointer;
 }
